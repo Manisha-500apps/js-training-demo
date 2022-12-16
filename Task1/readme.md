@@ -2,7 +2,7 @@ Learn About Functional Programming
 
 Functional programming is a style of programming where solutions are simple, isolated functions, without any side effects outside of the function scope: INPUT -> PROCESS -> OUTPUT
 
-Functional programming is about:
+Functional programming is abocxcxut:
 
 Isolated functions - there is no dependence on the state of the program, which includes global variables that are subject to change
 
